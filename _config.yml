@@ -1,0 +1,14 @@
+layout_spectrum: 0.33774383016861975
+typography_spectrum: 0.6500037813093513
+color:
+  brandStrength: 0.4828670029528439
+  lightness: 0.22359528369270265
+  saturation: 0.4071088903583586
+  rhythmicContrast: 0.15550529398024082
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: Project Management
